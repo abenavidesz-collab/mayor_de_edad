@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="Lwzemt6jQHaKatarHCl7">
-    <mxGraphModel dx="2720" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3864" dy="2696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,8 +23,8 @@
           <mxGeometry height="80" width="80" x="350" y="760" as="geometry" />
         </mxCell>
         <mxCell id="f1" edge="1" parent="1" source="inicio" style="endArrow=classic;html=1;strokeColor=#000000;" target="leer" />
-        <mxCell id="f2" edge="1" parent="1" source="leer" style="endArrow=classic;html=1;strokeColor=#000000;" target="procesos" />
-        <mxCell id="f3" edge="1" parent="1" source="procesos" style="endArrow=classic;html=1;strokeColor=#000000;" target="imprimir" />
+        <mxCell id="f2" edge="1" parent="1" source="leer" style="endArrow=classic;html=1;strokeColor=#000000;" />
+        <mxCell id="f3" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#000000;" target="imprimir" />
         <mxCell id="f4" edge="1" parent="1" source="imprimir" style="endArrow=classic;html=1;strokeColor=#000000;" target="fin" />
         <mxCell id="qpkY_bi2yeQZMh57TZVv-6" edge="1" parent="1" source="qpkY_bi2yeQZMh57TZVv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="imprimir">
           <mxGeometry relative="1" as="geometry" />
